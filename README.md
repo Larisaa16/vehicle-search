@@ -1,6 +1,6 @@
 # Vehicle Search Project
 
-##Branches
+## Branches
 
 1. main
 Description: Contains the README.md file.
